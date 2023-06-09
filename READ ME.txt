@@ -1,0 +1,2 @@
+Folder - is a visual studio project.
+Program.cs - is a code
